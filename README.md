@@ -117,7 +117,7 @@ The final 160-bit digest is the concatenation of H0, H1, H2, H3, H4.
 
 ## Security Considerations
 
-⚠️ **Note**: SHA-1 is considered cryptographically broken and should not be used for new security applications. It is vulnerable to collision attacks. This implementation is provided for educational and compatibility purposes only.
+ **Note**: SHA-1 is considered cryptographically broken and should not be used for new security applications. It is vulnerable to collision attacks. This implementation is provided for educational and compatibility purposes only.
 
 ## References
 
